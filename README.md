@@ -1,5 +1,5 @@
 # 👋🏽 Hey, I’m Qui  
-### I don’t quit — I troubleshoot.
+### I don’t quit, I troubleshoot.
 
 Linux Systems Administrator with a strong operational mindset and experience supporting, stabilizing, and improving Linux environments across enterprise and regulated systems. I focus on reliability, automation, and clear documentation so infrastructure is predictable, secure, and maintainable.
 
