@@ -100,7 +100,10 @@ Linux Systems Administrator with a strong operational mindset and experience sup
 ---
 
 ## 🧪 Selected Work
-
+This GitHub is being built out to showcase hands-on work in:
+- Linux compliance baselines and system hardening
+- Real-world systems administration troubleshooting
+- Automation with Ansible and configuration management
 
 
 ---
