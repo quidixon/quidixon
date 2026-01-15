@@ -100,11 +100,8 @@ Linux Systems Administrator with a strong operational mindset and experience sup
 ---
 
 ## 🧪 Selected Work
-- **Linux Compliance Baseline** — hardened configurations and validation steps  
-- **SysAdmin Ticket Log** — real-world troubleshooting scenarios  
-- **Ansible Automation** — repeatable builds and configuration enforcement  
 
-(See pinned repositories below.)
+
 
 ---
 
