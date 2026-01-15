@@ -1,16 +1,112 @@
-## Hi there 👋
+# 👋🏽 Hey, I’m Qui  
+### I don’t quit — I troubleshoot.
 
-<!--
-**quidixon/quidixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux Systems Administrator with a strong operational mindset and experience supporting, stabilizing, and improving Linux environments across enterprise and regulated systems. I focus on reliability, automation, and clear documentation so infrastructure is predictable, secure, and maintainable.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩🏽‍💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,redhat,ansible,terraform,bash,git,gitlab,docker,aws" />
+</p>
+
+### Operating Systems & Platforms
+- Red Hat Enterprise Linux (RHEL)
+- CentOS 7 / 8 / 9
+- Windows Active Directory environments
+
+### Virtualization & Infrastructure
+- VMware vSphere / ESXi
+- VirtualBox
+
+### Automation, Configuration Management & Infrastructure as Code
+- Ansible
+- Terraform
+- Foreman
+- Bash
+- Cron
+- YAML
+
+### Identity & Access Management
+- Active Directory
+- LDAP
+- OpenLDAP
+- FreeIPA
+
+### Containers & Application Deployment
+- Podman
+- Docker
+
+### Application & Database Services
+- Apache (HTTPD)
+- LAMP stack
+- WordPress
+- MariaDB
+- MySQL
+
+### Monitoring, Logging & Security Operations
+- Nagios
+- CheckMK
+- Graylog
+- Lynis
+- Qualys
+- Firewall configuration
+- System hardening
+
+### Version Control, Ticketing & Documentation
+- Git
+- GitLab
+- Jira
+- Technical documentation
+- SOPs
+- Internal wikis
+
+### Operating Environments
+- Enterprise IT
+- Government-regulated systems
+- Audit-driven operations
+
+---
+
+## 📜 Certifications & Training
+<p>
+  <!-- RHCSA -->
+  <a href="https://www.credly.com/badges/5e5ceab1-dfdc-4145-86af-c107fa56b5f6/public_url">
+    <img src="https://images.credly.com/credly/badges/5e5ceab1-dfdc-4145-86af-c107fa56b5f6/6973f504-8d24-46e4-a8ff-89fce344f02d.png"
+         alt="Red Hat Certified System Administrator (RHCSA)"
+         height="90"/>
+  </a>
+
+  <!-- AWS Cloud Quest -->
+  <a href="https://www.credly.com/earner/earned/badge/1d10e5d7-d0db-4a81-921a-21103ad3c15f">
+    <img src="https://images.credly.com/credly/badges/1d10e5d7-d0db-4a81-921a-21103ad3c15f/8b5a3b4c-7f8b-4d5f-9c7a-5f89f2c3b1c6.png"
+         alt="AWS Cloud Quest: Cloud Practitioner"
+         height="90"/>
+  </a>
+</p>
+
+**In progress:** CompTIA Security+
+
+---
+
+## ⭐ Focus Areas
+- Linux systems administration (RHEL-based)
+- Troubleshooting and root cause analysis
+- Automation and configuration management
+- Identity and access management
+- Security-aware and compliance-driven configurations
+
+---
+
+## 🧪 Selected Work
+- **Linux Compliance Baseline** — hardened configurations and validation steps  
+- **SysAdmin Ticket Log** — real-world troubleshooting scenarios  
+- **Ansible Automation** — repeatable builds and configuration enforcement  
+
+(See pinned repositories below.)
+
+---
+
+## 🤝 Connect
+- LinkedIn: https://www.linkedin.com/in/qui-dixon
